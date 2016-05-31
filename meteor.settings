@@ -1,0 +1,12 @@
+"cas": {
+    "baseUrl": "https://sso.pdx.edu/cas/",
+    "autoClose": true
+},
+"public": {
+    "cas": {
+        "loginUrl": "https://sso.pdx.edu/cas/login",
+        "serviceParam": "service",
+        "popupWidth": 810,
+        "popupHeight": 610
+    }
+}
